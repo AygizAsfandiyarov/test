@@ -14,4 +14,4 @@ _тест_
 
 __тест__
 
-![картинка](https://github.com/user-attachments/assets/16dbfe1e-665e-4340-9a71-d0b7da81c5c0)
+![картинка](https://github.com/user-attachments/assets/62e26864-d03d-4fdf-aad7-ca859ec43fbf)
