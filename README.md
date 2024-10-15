@@ -13,5 +13,3 @@ _тест_
 ## Заголовок 3
 
 __тест__
-
-![картинка](https://github.com/user-attachments/assets/62e26864-d03d-4fdf-aad7-ca859ec43fbf)
