@@ -10,6 +10,7 @@ _тест_
 ```
 print('Hello, Bashkortostan')
 ```
+
 ## Заголовок 2 
 
 ~~тест~~
